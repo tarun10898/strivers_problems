@@ -9,3 +9,15 @@ def solve(n1,n2):
 if __name__ == "__main__":
     n1,n2 = 20,40
     print(solve(n1,n2))
+
+# def find_gcd(a,b):
+#     while a>0 and b>0:
+
+
+
+
+# if __name__ == "__main__":
+#     n1 = 20 
+#     n2 = 40
+#     gcd = find_gcd(n1,n2)
+#     print(gcd)
